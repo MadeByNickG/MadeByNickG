@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I learn cloud things in Microsoft Azure and GoogleCloud.
+
+<img src="logo.png">
+
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikolay-grudov-5b224b173/)
+<br />
+
