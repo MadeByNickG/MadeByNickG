@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I learn cloud things in Microsoft Azure and GoogleCloud.
+- 🌱 I’m currently learning Microsoft Azure, GoogleCloud, Python, Linux ...
 
 <img src="Logo.png">
 
