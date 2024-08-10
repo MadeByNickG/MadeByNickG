@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 🌱 I’m currently learning Java, SQL, Linux, Bash, Python ...
 
-<img src="Logo.png">
-
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikolay-grudov-5b224b173/)
 <br />
 
